@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 /**
- * 好用云智慧工厂系统移动端（安卓APP）液晶屏端APP
+ * 好用云智慧工厂系统移动端（安卓APP）液晶屏端APP。。
 
 
  */
