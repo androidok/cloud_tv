@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">cloud_tv</string>
+    <string name="app_name">厚丰集团</string>
+    <string name="welcome">厚丰集团精益生产管理系统-区域看板</string>
+    <string name="welcome_andeng">厚丰集团安灯系统-区域看板</string>
 </resources>
